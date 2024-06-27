@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">project-5</h3>
+<h3 align="center">Firebase Contact App</h3>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">
     <br> 
 </p>
 
@@ -24,91 +24,41 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+The Firebase Contact App streamlines adding and updating contacts with robust form validation using Form. Integrated with Firebase Firestore for efficient data storage, it ensures accurate handling of names, emails, and phone numbers. The app features a clean, user-friendly interface for seamless interaction.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
 
-What things you need to install the software and how to install them.
 
-```
-Give examples
-```
+
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+Clone the repository:
+```
+git clone https://github.com/your-username/your-repo-name.git
+```
+Navigate to the project directory:
 
 ```
-Give the example
+cd your-repo-name
+```
+Install the dependencies:
+```
+npm install
 ```
 
-And repeat
+![Screenshot 2024-06-28 011337](https://github.com/nikhilkumar0811/Firebase-Contact-App/assets/130460945/ff8095c0-608e-4ab2-9ab8-d49c8fa6baea)
+![Screenshot 2024-06-28 011256](https://github.com/nikhilkumar0811/Firebase-Contact-App/assets/130460945/eb134efa-c979-4a85-9b16-07dbf475b1bd)
+![Screenshot 2024-06-28 011158](https://github.com/nikhilkumar0811/Firebase-Contact-App/assets/130460945/a22f1857-8b9b-4d17-8541-f8fe2a1cb436)
+![Screenshot 2024-06-28 011127](https://github.com/nikhilkumar0811/Firebase-Contact-App/assets/130460945/e9de572d-e1cb-43e2-970b-573bbcfe79d9)
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo.
 
-## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
